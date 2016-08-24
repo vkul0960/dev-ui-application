@@ -1,0 +1,78 @@
+{
+	"ItemCollection": [
+		{
+			"MaterialId": "4240588",
+			"LifecycleStatus": "P",
+			"TotalStock": "40",
+			"Description": "YOGURT BLUEBERRY CKIE CRNCH",
+			"ExpectedPos": "60",
+			"ReceivedPos": "20",
+			"UnitOfMeasure": "CS",
+			"ReceiveDate": "2016-08-19T22:00:00",
+			"BusinessPartner": {
+				"CompanyName": "DOT FOODS 1",
+				"Street": "ONE DOT WAY RT 99 S",
+				"PostalCode": "62353",
+				"City": "MT STERLING",
+				"Country": "IL"
+			},
+			"LineItems": [
+				{
+					"SoId": "1013698158",
+					"GrossAmount": "27.20",
+					"CustomerId": "1000061679",
+					"Name": "Olympic Training Ctr Chobani",
+					"Quantity": "6.00",
+					"QuantityUnit": "CS",
+					"DeliveryDate": "2016-08-20T22:00:00"
+				},
+				{
+					"SoId": "1013698160",
+					"GrossAmount": "27.20",
+					"CustomerId": "1000061888",
+					"Name": "Arid Club",
+					"Quantity": "6.00",
+					"QuantityUnit": "CS",
+					"DeliveryDate": "2016-08-20T22:00:00"
+				}
+			]
+		},
+		{
+			"MaterialId": "1234567",
+			"LifecycleStatus": "N",
+			"TotalStock": "40",
+			"Description": "YOGURT BLUEBERRY CKIE CRNCH",
+			"ExpectedPos": "60",
+			"ReceivedPos": "20",
+			"UnitOfMeasure": "CS",
+			"ReceiveDate": "2016-08-19T22:00:00",
+			"BusinessPartner": {
+				"CompanyName": "DOT FOODS 1",
+				"Street": "ONE DOT WAY RT 99 S",
+				"PostalCode": "62353",
+				"City": "MT STERLING",
+				"Country": "IL"
+			},
+			"LineItems": [
+				{
+					"SoId": "1013698158",
+					"GrossAmount": "27.20",
+					"CustomerId": "1000061679",
+					"Name": "Olympic Training Ctr Chobani",
+					"Quantity": "6.00",
+					"QuantityUnit": "CS",
+					"DeliveryDate": "2016-08-20T22:00:00"
+				},
+				{
+					"SoId": "1013698160",
+					"GrossAmount": "27.20",
+					"CustomerId": "1000061888",
+					"Name": "Arid Club",
+					"Quantity": "6.00",
+					"QuantityUnit": "CS",
+					"DeliveryDate": "2016-08-20T22:00:00"
+				}
+			]
+		}
+	]
+}	
